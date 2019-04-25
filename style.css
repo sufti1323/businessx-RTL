@@ -95,3 +95,12 @@ caption, th, td {
     margin-left: 1.944em;
     margin-right: unset;
 }
+
+.grid-1 .grid-col, .grid-2 .grid-col {
+    float: right;
+}
+
+.grid-1 .grid-col {
+    margin-left: 7.03125%;
+    margin-right: unset;
+}
