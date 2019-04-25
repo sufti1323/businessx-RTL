@@ -1,0 +1,22 @@
+@media screen and (max-width: 1010px) { 
+    .main-header .logo-wrap {
+        margin-left: unset !important;
+    }
+
+    .ac-btn, input[type=submit], input[type=reset], input[type=button], button, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce input[type=submit].button, .woocommerce #respond input#submit, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce #respond input#submit.alt {
+        margin: 0 5px !important;
+    }
+}
+
+
+@media screen and (max-width: 960px) { 
+
+ 
+@media screen and (max-width: 768px) {
+
+}
+
+ 
+@media screen and (max-width: 480px) { 
+
+}

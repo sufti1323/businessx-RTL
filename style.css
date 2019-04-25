@@ -1,0 +1,97 @@
+/*
+ Theme Name:   Businessx Child
+ Theme URI:    http://www.acosmin.com/theme/businessx/
+ Description:  BusinessX Child Theme
+ Author:       Acosmin
+ Author URI:   http://www.acosmin.com
+ Template:     businessx
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         custom-header, grid-layout, right-sidebar, sticky-post, translation-ready, threaded-comments, featured-images, custom-menu, custom-colors, theme-options, footer-widgets, portfolio, blog, news, e-commerce
+ Text Domain:  businessx-child
+*/
+
+/*
+ For more info on child themes access this page: https://codex.wordpress.org/Child_Themes 
+ You can add your customizations below 
+*/
+
+@import "responsive.css";
+
+.main-header-right {
+    left: 0;
+    right: unset;
+}
+
+.main-header .logo-wrap {
+    margin-left: 2.500em;
+    margin-right: unset;
+}
+
+.main-menu > li {
+    float: right;
+}
+
+.main-menu li:first-child {
+    margin-right: 0;
+    margin-left: unset;
+}
+
+.footer-creds .logo-wrap {
+    float: right;
+    margin-left: 2.500em;
+    margin-right: unset;
+}
+
+.footer-creds-copyright {
+    left: 0;
+    right: unset;
+}
+
+.widget_search label, .widget_product_search .search-field {
+    float: right;
+}
+
+.screen-reader-text, .assistive-text {
+    right: -9999em;
+    left: unset;
+}
+
+.widget_search .search-submit, .widget_product_search input[type="submit"] {
+    float: left;
+}
+
+caption, th, td {
+    text-align: right;
+}
+
+.comment-author, .comment-metadata, .comment-awaiting-moderation {
+    float: right;
+}
+
+.comment-author .avatar {
+    margin-left: 0.475em;
+    margin-right:  unset;
+}
+
+.sec-blog-post-meta-list li {
+    float: right;
+    margin-left: 1.944em;
+    margin-right: unset;
+}
+
+.info-full .entry-meta-list.eml-right {
+    float: left;
+}
+
+.entry-meta-list li:last-child {
+    margin-left: 0;
+    margin-right: unset;
+}
+
+.entry-meta-list li {
+    float: right;
+    margin-left: 1.944em;
+    margin-right: unset;
+}
