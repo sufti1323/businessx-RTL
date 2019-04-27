@@ -127,3 +127,11 @@ caption, th, td {
  .sec-team .sec-team-member-social a {
      float: right;
  }
+
+/*
+    page - post
+ */
+
+ .last-col, .grid-1 .grid-4x-col, .grid-2 .grid-4x-col {
+     margin-left: 0 !important;
+ }
