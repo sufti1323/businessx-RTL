@@ -114,3 +114,16 @@ caption, th, td {
     margin-left: 0;
     margin-right: unset;
 }
+
+/*
+    Team
+ */
+
+ .hb-bottom-abs-small:after {
+     right: 0;
+     left: unset;
+ }
+
+ .sec-team .sec-team-member-social a {
+     float: right;
+ }
