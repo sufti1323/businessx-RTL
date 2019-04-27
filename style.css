@@ -104,3 +104,13 @@ caption, th, td {
     margin-left: 7.03125%;
     margin-right: unset;
 }
+
+.sec-about-box:after {
+    right: 0;
+    left: unset;
+}
+
+.sec-about .grid-items > div.sec-about-box:nth-child(2n) {
+    margin-left: 0;
+    margin-right: unset;
+}
