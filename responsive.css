@@ -6,6 +6,16 @@
     .ac-btn, input[type=submit], input[type=reset], input[type=button], button, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce input[type=submit].button, .woocommerce #respond input#submit, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce #respond input#submit.alt {
         margin: 0 5px !important;
     }
+
+    .sec-feature-figure, .sec-feature-figure-img {
+        right: 0 !important;
+        left: unset !important;
+    }
+
+    .sec-feature {
+        padding-right: 7.556em !important;
+        padding-left: unset !important;
+    }
 }
 
 
