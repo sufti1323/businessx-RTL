@@ -131,3 +131,11 @@ caption, th, td {
  #sec-portfolio-wrap > div.grid-col.grid-2x-col.sec-portfolio-item.masonry-brick {
      right: 0% !important;
  }
+
+ .alignright {
+     float: left;
+ }
+
+ .alignleft {
+     float: right;
+ }
