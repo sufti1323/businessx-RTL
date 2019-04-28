@@ -31,6 +31,7 @@
 
 .main-menu > li {
     float: right;
+    margin: 0px 1.722em 0 -0.278em;
 }
 
 .main-menu li:first-child {
@@ -147,3 +148,31 @@ caption, th, td {
 .grid-1 .masonry-brick {
     margin-left: unset !important;
  }
+
+.main-menu .sub-menu li.menu-item-has-children:before {
+    content: "\f104";
+    left: 3%;
+    right: unset;
+}
+
+.main-menu > li > ul .sub-menu {
+    left: -11.8055em;
+    right: unset;
+}
+
+.main-menu > li.menu-item-has-children > a {
+    padding-left: 0.889em;
+    padding-right: unset;
+}
+
+.main-menu > li.menu-item-has-children > a:after, .main-menu .sub-menu li.menu-item-has-children:before {
+    left: 0;
+    right: unset;
+}
+
+.main-menu > li > ul, .main-menu > li.menu-item-has-children:after {
+    right: 50%;
+    left: unset;
+    margin-right: -5.278em;
+    margin-left: unset;
+}
