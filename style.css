@@ -115,10 +115,6 @@ caption, th, td {
     margin-right: unset;
 }
 
-/*
-    Team
- */
-
  .hb-bottom-abs-small:after {
      right: 0;
      left: unset;
@@ -128,10 +124,10 @@ caption, th, td {
      float: right;
  }
 
-/*
-    page - post
- */
-
  .last-col, .grid-1 .grid-4x-col, .grid-2 .grid-4x-col {
      margin-left: 0 !important;
+ }
+
+ #sec-portfolio-wrap > div.grid-col.grid-2x-col.sec-portfolio-item.masonry-brick {
+     right: 0% !important;
  }
