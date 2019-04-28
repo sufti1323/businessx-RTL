@@ -139,3 +139,11 @@ caption, th, td {
  .alignleft {
      float: right;
  }
+
+ #sec-faq-items .grid-col {
+    margin-left: unset !important;
+ }
+
+.grid-1 .masonry-brick {
+    margin-left: unset !important;
+ }
