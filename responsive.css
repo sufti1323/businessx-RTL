@@ -41,6 +41,12 @@
         left: 0 !important;
         right: unset !important;
     }
+
+    .footer-creds .logo-wrap {
+        float: none !important;
+        margin-right: 0 !important;
+        margin-left: unset !important;
+    }
 }
 
 
