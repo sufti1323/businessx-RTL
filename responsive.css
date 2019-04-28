@@ -20,6 +20,27 @@
     .owl-carousel .owl-item {
         float: right !important;
     }
+
+    .main-header-btns .ac-btn-h {
+        float: right !important;
+        margin-right: 0.222em !important;
+        margin-left: unset !important;
+    }
+
+    .mobile-menu .close-menu {
+        left: 3.333em !important;
+        right: unset !important;
+    }
+
+    .mobile-menu li > a:first-child:not(.ac-btn) {
+        padding-left: 3.222em !important;
+        padding-right: unset !important;
+    }
+
+    .mobile-menu .mobile-arrow {
+        left: 0 !important;
+        right: unset !important;
+    }
 }
 
 
