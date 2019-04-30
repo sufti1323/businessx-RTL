@@ -176,3 +176,8 @@ caption, th, td {
     margin-right: -5.278em;
     margin-left: unset;
 }
+
+.sec-features .grid-items > div.sec-feature:nth-child(4n) {
+    margin-left: 0;
+    margin-right: unset;
+}
