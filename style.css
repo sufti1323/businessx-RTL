@@ -181,3 +181,11 @@ caption, th, td {
     margin-left: 0;
     margin-right: unset;
 }
+
+.posts-pagination .page-numbers, .posts-pagination.in-post a, .woocommerce nav.woocommerce-pagination ul li, .woocommerce nav.woocommerce-pagination ul li a, .woocommerce nav.woocommerce-pagination ul li span, .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current {
+    float: right;
+}
+
+.ta-right {
+    text-align: left;
+}
