@@ -1,3 +1,4 @@
+![logo](https://github.com/sufti1323/businessx-RTL/blob/master/screenshot.png?raw=true)
 # Businessx RTL
 
 Businessx RTL is the RTL version of the Businessx template. The template has been translated by sufti1323 of goodwill to contribute to the community.
