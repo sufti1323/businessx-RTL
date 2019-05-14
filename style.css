@@ -191,3 +191,11 @@ caption, th, td {
 .footer-creds-menu li {
     float: right;
 }
+
+.post-index .entry-thumbnail {
+    float: right;
+}
+
+.post-index.has-post-thumbnail .entry-info {
+    float: left;
+}
