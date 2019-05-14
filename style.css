@@ -189,3 +189,7 @@ caption, th, td {
 .ta-right {
     text-align: left;
 }
+
+.footer-creds-menu li {
+    float: right;
+}
