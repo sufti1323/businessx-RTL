@@ -17,8 +17,6 @@
  You can add your customizations below 
 */
 
-@import "responsive.css";
-
 .main-header-right {
     left: 0;
     right: unset;

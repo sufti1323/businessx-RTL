@@ -39,3 +39,6 @@ function bx_google_maps_creds() {
 	return 'YOUR API KEY GOES HERE';
 }
 // add_filter( 'jetpack_google_maps_api_key', 'bx_google_maps_creds' );
+
+
+wp_enqueue_style( 'responsive', get_stylesheet_directory_uri() . '/responsive.css' );
